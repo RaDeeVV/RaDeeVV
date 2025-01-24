@@ -8,7 +8,7 @@ Soy un desarrollador apasionado por crear soluciones increíbles con código.
 
 ## 🌟 Un poco sobre mí:
 - 💻 Apasionado por la tecnología, la ciberseguridad y la programación.
-- 🎨 Me encanta aprender sobre frontend y backend.
+- 🎨 Me encanta aprender sobre todo lo relacionado con el frontend y backend.
 - 🌎 Siempre dispuesto a colaborar en proyectos interesantes que hagan la diferencia.
 - 🎮 Gamer casual y amante de los videojuegos.
 - 🔒 Amante de la ciberseguridad, con experiencia en análisis de vulnerabilidades, protocolos de red y seguridad.
@@ -84,12 +84,12 @@ Seguir especializándome en el desarrollo de software y ciberseguridad, con un e
 ¡Gracias por visitar mi perfil! 😊 
 <p align="right">
   <a href="https://www.linkedin.com/in/raul-epsa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" height="30">
   </a>
   <a href="mailto:raul.epsa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Correo" height="30">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=html5&logoColor=white" alt="Portafolio" height="30">
+    <img src="https://img.icons8.com/ios-filled/50/000000/web.png" alt="Portafolio" height="30">
   </a>
 </p>
