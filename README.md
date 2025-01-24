@@ -84,12 +84,6 @@ Seguir especializándome en el desarrollo de software y ciberseguridad, con un e
 <div align="center">
   <h3>😊 ¡Gracias por visitar mi perfil! 😊</h3>
   <p>
-    <a href="https://www.linkedin.com/in/raul-epsa/" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
-    </a><a href="mailto:raul.epsa.dev@gmail.com" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30">
-    </a><a href="#" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portafolio" height="30">
-    </a>
+    <a href="https://www.linkedin.com/in/raul-epsa/" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30"></a><a href="mailto:raul.epsa.dev@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30"></a><a href="#" target="_blank" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portafolio" height="30"></a>
   </p>
 </div>
