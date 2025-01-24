@@ -1,12 +1,14 @@
 # 👋 ¡Hola! Soy Raúl Esparragosa
 
-Soy un desarrollador apasionado por crear soluciones increíbles con código. 🚀 Mi objetivo es mejorar continuamente mis habilidades, colaborar en proyectos emocionantes y contribuir al desarrollo tecnológico.
+Soy un desarrollador apasionado por crear soluciones increíbles con código.
+
+🚀 Mi objetivo es mejorar continuamente mis habilidades, colaborar en proyectos emocionantes y contribuir al desarrollo tecnológico.
 
 ---
 
 ## 🌟 Un poco sobre mí:
 - 💻 Apasionado por la tecnología, la ciberseguridad y la programación.
-- 🎨 Me encanta aprender sobre diseño web y UX/UI.
+- 🎨 Me encanta aprender sobre frontend y backend.
 - 🌎 Siempre dispuesto a colaborar en proyectos interesantes que hagan la diferencia.
 - 🎮 Gamer casual y amante de los videojuegos.
 - 🔒 Amante de la ciberseguridad, con experiencia en análisis de vulnerabilidades, protocolos de red y seguridad.
@@ -27,27 +29,31 @@ Soy un desarrollador apasionado por crear soluciones increíbles con código. �
 
 ---
 
-## 🔧 Tecnologías y Herramientas que uso:
-### **Lenguajes de programación:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🔧 **Tecnologías y Herramientas que uso:**
+### **💻 Lenguajes de programación:**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) **Lua**
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) **PHP**
 
-### **Frameworks y Librerías:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### **🌐 Lenguajes de marcado y estilo:**
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS**
 
-### **Bases de datos:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### **⚙️ Frameworks y Librerías:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) **React**
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) **Django**
+- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) **Laravel**
+- ![Blade](https://img.shields.io/badge/Blade-F4D03F?style=for-the-badge&logo=blade&logoColor=black) **Blade**
 
-### **Herramientas:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+### **🗃️ Bases de datos:**
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **MySQL**
+
+### **🛠️ Herramientas:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker**
+- ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) **VirtualBox**
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) **Wireshark**
 
 ---
 
