@@ -84,12 +84,12 @@ Seguir especializándome en el desarrollo de software y ciberseguridad, con un e
 ¡Gracias por visitar mi perfil! 😊 
 <p align="right">
   <a href="https://www.linkedin.com/in/raul-epsa/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" height="30">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30">
   </a>
   <a href="mailto:raul.epsa.dev@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Gmail_Icon_%282013-2020%29.png" alt="Correo" height="30">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30">
   </a>
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/WordPress_Logo_2022.svg" alt="Portafolio" height="30">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portafolio" height="30">
   </a>
 </p>
